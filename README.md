@@ -1,4 +1,4 @@
-# Java - Bank Account Management Application
+# C++ - Hangman
 ####Author: Jeanis Sananikone
 
 ####Background
