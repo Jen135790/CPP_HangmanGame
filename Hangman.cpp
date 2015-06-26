@@ -1,11 +1,6 @@
 /*********************************
-	File: Hangman.cpp (PROTOTYPE! Subject to change)
-	Group: JSP
-	
-	[Members]
-	Jeanis Sananikone
-	Pema Sherpa
-	Seunghun Jun
+	File: Hangman.cpp (RELEASE)
+	Author: Jeanis Sananikone
 
 *********************************/
 #include <iostream>
