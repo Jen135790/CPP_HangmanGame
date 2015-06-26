@@ -1,0 +1,9 @@
+GitHub
+Repository
+This is a sample word list
+The game accepts phrases too
+fork a repository
+pull a repository
+push to a repository
+You can add as many words or phrases as you like
+Enjoy the hangman game
