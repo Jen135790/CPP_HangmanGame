@@ -27,8 +27,7 @@ A college C++ final project
 ####Install
 Download the application file (.exe), run it, play! If you want to create your own word list, take a look at the SampleWordList file, save it to the same folder as the application file.
 	
-####Disclaimer
-This project is final and for demonstration purposes only.
+####This project is final and for demonstration purposes only.
 
 ####Images
 Main Menu:
